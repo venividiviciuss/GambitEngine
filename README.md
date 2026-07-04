@@ -4,7 +4,15 @@ Stockfish-based chess analysis tool for visualizing evaluations and variations f
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![PyQt6](https://img.shields.io/badge/GUI-PyQt6-green) ![Stockfish](https://img.shields.io/badge/Engine-Stockfish-orange)
 
-![alt text](example/example_video.gif)
+![alt text](example/example_gui.png)
+![alt text](example/example_board.png)
+
+<details>
+<summary>Show preview</summary>
+
+![Preview](example/example_video.gif)
+
+</details>
 
 ---
 
